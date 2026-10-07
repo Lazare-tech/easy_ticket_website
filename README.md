@@ -219,6 +219,7 @@ Les fonctionnalités sensibles sont ainsi réservées aux utilisateurs autorisé
 
 ![Preview événement Backpack](screenshots/Preview_evenementAdmin_BackpackAdminPanel.png)
 
+
 ---
 
 ## 👨‍💻 Rôle dans le projet
